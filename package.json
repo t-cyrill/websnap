@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "commander": "^2.3.0",
-    "mktemp": "^0.3.5",
     "webshot": "^0.15.3"
   }
 }

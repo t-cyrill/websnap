@@ -2,9 +2,7 @@
 
 var os = require('os')
   , fs = require('fs')
-  , util = require('util')
   , path = require('path')
-  , mktemp = require('mktemp')
   , webshot = require('webshot')
   , program = require('commander')
   , errors = []
