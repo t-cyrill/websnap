@@ -11,6 +11,8 @@ $ ./websnap.js -h
   -V, --version        output the version number
   -u, --url <url>      url
   -o, --output <path>  image output path
+  --width              output image width
+  --height             output image height
 ```
 
 ## example
